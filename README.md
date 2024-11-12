@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
 # User Manager Pro 👥
 
 A modern React-based user management system designed for easy administration of user roles and permissions. Built with React, TailwindCSS, and local storage for demonstration purposes.
@@ -44,4 +34,4 @@ npm install
 
 # Start development server
 npm run dev
->>>>>>> e934af3f04e4bcd9032d62a74b6eacc1c92302c8
+```
