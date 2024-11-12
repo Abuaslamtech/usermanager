@@ -22,7 +22,7 @@ A modern React-based user management system designed for easy administration of 
 
 ## Live Demo 🌐
 
-[https://usersmanager.vercel.app/] (https://usersmanager.vercel.app/)
+[View Live Demo](https://usersmanager.vercel.app/)
 
 ## Installation & Setup 🛠️
 
