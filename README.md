@@ -17,11 +17,12 @@ A modern React-based user management system designed for easy administration of 
 - TailwindCSS
 - React Router DOM
 - React Icons
+- Lucide Icons
 - Local Storage
 
 ## Live Demo 🌐
 
-[Add your deployed project link here]
+[https://usersmanager.vercel.app/]
 
 ## Installation & Setup 🛠️
 
