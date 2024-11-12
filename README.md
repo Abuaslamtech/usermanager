@@ -24,6 +24,22 @@ A modern React-based user management system designed for easy administration of 
 
 [https://usersmanager.vercel.app/](https://usersmanager.vercel.app/)
 
+## Screenshots 📸
+
+Here are some screenshots of the application in action:
+
+![Empty Homepage Screenshot](/src/assets/emptyhome.png)
+_Homepage with empty users_
+
+![Homepage Screenshot](/src/assets/home.png)
+_Homepage showing the main features._
+
+![Manage User Screenshot](/src/assets/manage.png)
+_Page to manage registered users_
+
+![Add User Screenshot](/src/assets/adduser.png)
+_Page to register new users_
+
 ## Installation & Setup 🛠️
 
 ```bash

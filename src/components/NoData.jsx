@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import image from "../data/nodata.svg";
+import image from "../assets/nodata.svg";
 
 const NoData = () => {
   return (
