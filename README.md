@@ -65,14 +65,18 @@ npm install
 npm run dev
 ```
 
-## Usage
+## Usage 📘
 
 - Access the Application: Once the server is running, open http://localhost:5173 in your browser.
 - Manage Users: You can add, edit, or delete users. Use the search bar to quickly find users.
 - Assign Roles: From the Add new user page, you can set roles for each user.
 - Change Status: Toggle user status (e.g., active or inactive) for each user.
 
-## Limitations
+## Limitations 🔒
 
 - Local Storage Limitations: Since data is stored in the browser’s local storage, it is not persistent across devices or sessions.
 - Authentication & Security: This demo does not include user authentication.
+
+## Debugging Report 🔧
+
+If you would like to view the debugging report for this project, please visit the following link: [Debugging Report](https://github.com/Abuaslamtech/usermanager/blob/main/DEBUGGING_REPORT.md)
